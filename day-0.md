@@ -29,6 +29,6 @@ First, make sure you are in *NORMAL* mode, so press the *<ESC>* key a couple of 
 
 You're probably wondering what all this black magic is, **:q!<ENTER>**, *"I'm going back to VSCode!*...
 
-WAIT! Don't give up already! 
+WAIT! Don't give up already! Head over to [Day 1](day-1.md) to start your journey!
 
 
