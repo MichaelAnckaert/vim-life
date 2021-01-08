@@ -23,11 +23,11 @@ To start VIM from the terminal, you simply enter the **vim** command in the term
 
 Despite the many jokes about being stuck in VIM forever, or ony being to close VIM by restarting your computer, leaving VIM is very simple. 
 
-First, make sure you are in *NORMAL* mode, so press the *<ESC>* key a couple of times. Then press the *:* key and type *q!* followed by *<ENTER>*. 
+First, make sure you are in *NORMAL* mode, so press the *<ESC>* key a couple of times. Then press the **:** key and type **q!** followed by *<ENTER>*. 
 
 ### What did I just do?!?
 
-You're probably wondering what all this black magic is, *:q!<ENTER>*, *"I'm going back to VSCode!*...
+You're probably wondering what all this black magic is, **:q!<ENTER>**, *"I'm going back to VSCode!*...
 
 WAIT! Don't give up already! 
 
