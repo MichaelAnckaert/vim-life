@@ -7,4 +7,5 @@ The goal of this series is to get you up and running with VIM, and increase your
 You can take this *course* at your own pace, starting new days as you want, going back and forward as you like.
 
 [Day 0](day-0.md) - Installing, starting and leaving VIM
+
 [Day 1](day-1.md) - Creating, opening and saving files

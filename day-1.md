@@ -20,4 +20,12 @@ Let's go ahead and head over to *INSERT* mode. Like the name indicates, in this 
 
 ![You're now in INSERT mode!](images/day-1-1.png)
 
+Go ahead and enter some text now. All key presses will act like you're in a regular old text editor. Type something! 
+
+When you're satisfied, press the **<ESC>** key to return to *NORMAL* mode:
+
+![Back to the safety of NORMAL mode](images/day-1-2.png)
+
+**NOTE**: We will indicate special keys like Escape like this: **<ESC>**. You don't have to press the square brackets ('<' or '>'), just hit the Escape key on your keyboard. Other similar examples are **<ENTER>** for the Enter key or **<CTRL>** for the Control key.
+
 ## Opening files
