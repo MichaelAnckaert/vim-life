@@ -12,7 +12,21 @@ If you are using Linux there is good chance you already have VIM available on yo
 
 ### Mac OS users
 
+In some cases you will need to install or update VIM on your computer depending on the operating system version.
+
+The easiest way for a Mac OS User to get the latest version of VIM is to install the  [`Homebrew`](https://brew.sh/) package manager.
+You can install `Homebrew` in a simple one liner in your terminal of choice:
+
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+
+From there you should be able to install the [`LTS`](https://formulae.brew.sh/formula/vim) version of VIM by opening a terminal and run: `brew install vim`
+
+Finally you can open up your terminal of choice and open VIM by simply by writing `vim` and pressing enter.
+
 ### Windows users
+
+[`Best guide I could fined online`](https://www.freecodecamp.org/news/vim-windows-install-powershell/)
+
 
 ## Starting VIM
 
